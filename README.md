@@ -8,5 +8,5 @@ A script to test if a tag has been inserted into the DOM via JS
 You can pass sites as many as you want.
 
 ```
-/phantomjs tag-monitor.js 'https://www.google.com/' 'https://www.github.com/'
+./phantomjs tag-monitor.js 'https://www.google.com/' 'https://www.github.com/'
 ```
